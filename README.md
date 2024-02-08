@@ -8,3 +8,4 @@ Data Ukonczenia 2024
 Kontakt Ksav2553 Discord
 Deploy Gałąź Modyfikowania
 Pliki i Foldery img-ryba.png
+Strona https://ksavkys.github.io/egzamin/
